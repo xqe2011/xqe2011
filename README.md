@@ -1,6 +1,6 @@
 # Ciallo～(∠・ω< )⌒★
-xqe2011, also named 小企鹅 in Chinese. Graduated from DGUT, Dongguan University of Technology. Now working as a project manager in Key Laboratory of Engineering Software in DGUT. I learned programming by myself in 2011.  
-My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime`, `Music`.  
+xqe2011, also named 小企鹅 in Chinese. My username can be split into two parts, the part `xqe` means small penguins in Chinese, and `2011` means the time I started to learn programming. My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime` and `Music`.     
+I graduated from DGUT, Dongguan University of Technology, now working as a project manager in the Key Laboratory of Engineering Software, DGUT.
   
 **NOT VIM USER**, `nano` and `Visual Studio Code` are better and modern.
 
@@ -25,7 +25,7 @@ My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime`, `Music`.
 - 2019: `C++`, Robotic. Joined the DJI Robotics Winter Camp.
 - 2019: `Typescript` + `React`. Built a DIY-ready robot controller for my friends.
 - 2020: Preparing for university entrance examination
-- 2021: `C++`, Robotic. Designed a full modular robot system in a RoboMaster lab
+- 2021: `C++`, Robotic. Designed a modular robot system in a RoboMaster lab
 - 2022: `C++`, Robotic. Led team to build a Lidar-Vision-based automated mini car.
 - 2023: `C++`, Hydrology. Joined ESLab, optimized weather algorithm, from 1h to 5min.
 - 2024: `Yaml`, Operation. Upgraded ESLab infra to cloud native arch.
