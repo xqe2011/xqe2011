@@ -38,5 +38,5 @@ xqe2011, also named 小企鹅 in Chinese. Graduated from DGUT, Dongguan Universi
 
 ## Features
 - feat(dev): C++, Python, Typescript, Javascript, Rust, PHP, C#
-- feat(manager): Manage 5-15 people
+- feat(manager): Manage 5-15 employees
 - feat(operation): Manage 10-20 servers
