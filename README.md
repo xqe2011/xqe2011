@@ -1,20 +1,16 @@
 # Ciallo～(∠・ω< )⌒★
 xqe2011, also named 小企鹅 in Chinese. Graduated from DGUT, Dongguan University of Technology. Now working as a project manager in Key Laboratory of Engineering Software in DGUT. I learned programming by myself in 2011.  
+My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime`, `Music`.  
   
 **NOT VIM USER**, `nano` and `Visual Studio Code` are better and modern.
 
-## My Interests
-- GalGame
-- Touhou Project
-- Anime
-- Music
-
 ## My *Unix path
-- 2016: `Elementary OS`
-- 2017: `Linux Mint`
-- 2018: `Ubuntu`
-- 2019: **Arch Linux** with `KDE`
-- 2020-2025: `MacOS` + **Arch Linux**
+- 2016: `Elementary OS` in desktop
+- 2017: `Linux Mint` in desktop
+- 2018: `Ubuntu` in desktop
+- 2019: **Arch Linux** with `KDE` in desktop
+- 2020-2025: `MacOS` in Laptop + **Arch Linux** in desktop
+- 2023-2025: `Rocky Linux` + `CentOS` + `OpenEuler` in production environments
 
 ## My learning path
 - 2011: `PHP`. Built a website for my parents' business.
@@ -32,11 +28,12 @@ xqe2011, also named 小企鹅 in Chinese. Graduated from DGUT, Dongguan Universi
 - 2021: `C++`, Robotic. Designed a full modular robot system in a RoboMaster lab
 - 2022: `C++`, Robotic. Led team to build a Lidar-Vision-based automated mini car.
 - 2023: `C++`, Hydrology. Joined ESLab, optimized weather algorithm, from 1h to 5min.
-- 2024: `C++` + `Python`, Operation. Upgraded ESLab infra to cloud native arch.
+- 2024: `Yaml`, Operation. Upgraded ESLab infra to cloud native arch.
+- 2024: `Python`, Operation. Written an Operator for workflow scheduling.
 - 2025: Manager. Designed ESLab-Neuron arch, led the team for many projects.
 - 2025: `Rust`, Hydrology. Built a POC for high-efficiency river indexing engine.
 
 ## Features
 - feat(dev): C++, Python, Typescript, Javascript, Rust, PHP, C#
 - feat(manager): Manage 5-15 employees
-- feat(operation): Manage 10-20 servers
+- feat(operation): Manage 10-20 bare-metal servers and multi-cloud clusters.
