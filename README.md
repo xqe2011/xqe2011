@@ -1,5 +1,6 @@
 # Ciallo～(∠・ω< )⌒★
-xqe2011, also named 小企鹅 in Chinese. My username can be split into two parts, the part `xqe` means small penguins in Chinese, and `2011` means the time I started to learn programming. My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime` and `Music`.     
+xqe2011, also named 小企鹅 in Chinese. My username can be split into two parts, the part `xqe` means small penguins in Chinese, and `2011` means the time I started to learn programming.  
+My Interests are `GalGame`, `Touhou Project`, `OSU! mania 4k`, `Anime` and `Music`.     
 I graduated from DGUT, Dongguan University of Technology, now working as a project manager in the Key Laboratory of Engineering Software, DGUT.
   
 **NOT VIM USER**, `nano` and `Visual Studio Code` are better and modern.
